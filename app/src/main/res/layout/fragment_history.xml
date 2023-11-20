@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.history.HistoryFragment">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:background="#DFDEDE"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:id="@+id/total_in"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@color/purple_700"
+            android:textStyle="bold"
+            android:lines="2"
+            android:textSize="15sp"
+            android:text="@string/stock_total_in"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:id="@+id/total_out"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@color/purple_700"
+            android:textStyle="bold"
+            android:lines="2"
+            android:textSize="15sp"
+            android:text="@string/stock_total_out" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:id="@+id/new_report"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@color/purple_500"
+            android:textStyle="bold"
+            android:lines="2"
+            android:textSize="15sp"
+            android:text="@string/newReport" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/history_recycler_view"
+        tools:listitem="@layout/history_view"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

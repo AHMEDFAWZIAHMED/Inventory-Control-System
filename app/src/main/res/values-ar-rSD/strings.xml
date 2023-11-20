@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InventoryControl</string>
+
+    <string name="menu_register">تسجيل</string>
+    <string name="menu_inventory">المخزن</string>
+    <string name="menu_history">التاريخ</string>
+    <string name="menu_help">مساعدة</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="empty">فارغ</string>
+    <string name="recycle_bin">سلة المهملات</string>
+    <string name="empty2">فارغة</string>
+    <string name="two_weeks">أسبوعان</string>
+    <string name="month">شهر</string>
+    <string name="two_months">شهران</string>
+    <string name="three_months">ثلاثة شهور</string>
+    <string name="restore">استرجاع</string>
+    <string name="update">تحديث</string>
+    <string name="cancel">الغاء</string>
+    <string name="product_name">إسم السلعة</string>
+    <string name="product_quantity">كمية السلعة</string>
+    <string name="product_price">سعر السلعة (اختياري)</string>
+    <string name="category">التصنيف (اختياري)</string>
+    <string name="details">التفاصيل (اختياري)</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="one_day">يوم</string>
+    <string name="two_days">يومان</string>
+    <string name="three_days">ثلاثة أيام</string>
+    <string name="four_days">أربعة أيام</string>
+    <string name="five_days">خمسة أيام</string>
+    <string name="six_days">ستة أيام</string>
+    <string name="seven_days">سبعة أيام</string>
+    <string name="language">اللغة</string>
+    <string name="stocktaking">الجرد</string>
+    <string name="notifications">الاشعارات</string>
+    <string name="search">بحث</string>
+    <string name="deleted">حذفت</string>
+    <string name="changed">تغيرت</string>
+    <string name="tIn">إجراء دخل</string>
+    <string name="tOut">إجراء خرج</string>
+    <string name="tDate">الزمن</string>
+    <string name="current">الحالي</string>
+    <string name="product_picture"> صورة السلعة (اختياري)</string>
+    <string name="save_product">حفظ السلعة</string>
+    <string name="must_number">لابد أن يكون رقم</string>
+    <string name="low_quantity">الكمية غير كافية</string>
+    <string name="add">إضافة</string>
+    <string name="name">إسم</string>
+    <string name="current_quantity">الكمية الحالية</string>
+    <string name="total_in">إجمالي الدخل</string>
+    <string name="total_out">إجمالي الخرج</string>
+    <string name="price">السعر</string>
+    <string name="total_price">إجمالي السعر</string>
+    <string name="category2">التصنيف</string>
+    <string name="details2">التفاصيل</string>
+    <string name="status">الحالة</string>
+    <string name="created_date">تاريخ التسجيل</string>
+    <string name="delete">مسح</string>
+    <string name="quantity_in">كمية الدخل</string>
+    <string name="quantity_out">كمية الخرج</string>
+    <string name="change_category">تغيير التصنيف</string>
+    <string name="add_details">إضافة تفاصيل</string>
+    <string name="change_name">تغيير الأسم</string>
+    <string name="change_price">تغيير السعر</string>
+    <string name="general_category">تصنيف عام</string>
+    <string name="no_details">لا توجد تفاصيل</string>
+    <string name="product_picture2">صورة السلعة</string>
+    <string name="press_again">اضغط رجوع مرة أخرى</string>
+    <string name="normal">طبيعي</string>
+    <string name="empty_stock">المخزن فارغ</string>
+    <string name="dead_stock">المخزن راكد</string>
+    <string name="empty_in">المخزن سينفد في</string>
+    <string name="one_week">أسبوع واحد</string>
+    <string name="cold_stock">المخزن جامد</string>
+    <string name="very_cold_stock">المخزن جامد جدا</string>
+    <string name="warning">تنويه</string>
+    <string name="red">أحمر</string>
+    <string name="orange">برتقالي</string>
+    <string name="yellow">أصفر</string>
+    <string name="green">أخضر</string>
+    <string name="blue">أزرق</string>
+    <string name="purple">بنفسجي</string>
+    <string name="light_blue">سماوي</string>
+    <string name="about_more_details">
+        نطام مراقبة المخازن برنامج يدير ويتابع السلع الموجودة في مخزنك، ويتحكم في جرد المخزون.\n\n\n
+        البرنامج مجاني، وبسيط، ويدير لك المدخلات والمخرجات من السلع في المخزن بطريقة سهلة.\n\n\n
+        ومن خلال التطبيق تستطيع الوصول لتقرير مختصر عن كمية المدخلات والمخرجات والموجود من سلعة على حدة.\n\n\n
+        وتكمن أهمية تعقب السلع في اختلاف كمية البضاعة الموجودة في المخزن مع الزمن، وذلك يرجع للطلبيات المتكررة.\n\n\n
+        بهذا التطبيق يمكنك معرفة ماذا يوجد في مخزنك وعدد الموجود في أي وقت، بالإضافة لما سبق من المعاملات، وبذلك تتجنب نفاد كمية السلع المطلوبة وتراكم السلع التي يقل الطلب عليها.\n\n\n
+    </string>
+    <string name="about">عن التطبيق</string>
+    <string name="how_to_start">كيفية الاستخدام</string>
+    <string name="start_more_details">
+        في صفحة التسجيل، اكتب إسم السلعة وكمية السلعة.\n\n\n
+        ثم انتقل لصفحة المخزن واضغط على سلعة واحدة لتظهر لك تفاصيل السلعة.\n\n\n
+        يمكنك تغيير بعض التفاصيل مثل إضافة لمجمل الدخل أو الخرج أو حذف السلعة.\n\n\n
+        ويمكنك رؤية التغييرات التي حدثت عند فتح صفحة التاريخ.\n\n\n
+    </string>
+    <string name="register_more_details">
+        هذه هي الخطوة الأولى لكل السلع الموجودة في مخزنك.\n\n\n
+        لابد من كتابة الإسم والكمية قبل حفظ السلعة.\n\n\n
+        يمكنك إضافة أو تعديل أي شيء عن السلعة في وقت لاحق في صفحة المخزن.\n\n\n
+    </string>
+    <string name="inventory_more_details">
+        تسمية التصنيفات يرجع لطريقة عملك؛ مثلًا يمكن أن يكون التصنيف لفئة معينة من السلع في المخزن، أو أن يكون إسم التصنيف هو نفسه إسم المخزن في حالة تعدد المخازن.\n\n\n
+        هنا يمكنك تجديد تفاصيل كل سلعة، وإضافة معاملات النقل من إدخال وإخراج.\n\n\n
+        ويمكنك أيضًا حذف السلعة واسترجاعها لاحقًا عن طريق الإعدادات.\n\n\n
+    </string>
+    <string name="history_more_details">
+        هنا تتمكن من مراجعة كل المعاملات والإجراءات والتقارير السابقة.\n\n\n
+        في كل أسبوع وشهر(أو الفترة من اختيارك)، ستجد ملف PDF جديد في جهازك.\n\n\n
+        ويمكنك عمل ملف PDF جديد فيه التقرير الأسبوعي في أي وقت.\n\n\n
+    </string>
+    <string name="notifications_more_details">
+        بعد عملية جرد ومراجعة المخزن، سيتم تنبيهك مباشرةً في حالة وجود اقتراح.\n\n\n
+    </string>
+    <string name="settings_more_details">
+        لغة التطبيق إما العربية أو الإنجليزية.\n\n\n
+        هنا يمكنك اختيار الفترة الزمنية التي ينتظرها النظام ليقوم بعملية الجرد.\n\n\n
+        وأيضًا يمكنك اختيار الفترة الزمنية بين كل إشعار.\n\n\n
+    </string>
+    <string name="total_stock">إجمالي المخزن</string>
+    <string name="total_product">إجمالي السلع</string>
+    <string name="transactions">المعاملات</string>
+    <string name="reports">التقارير</string>
+    <string name="week_out">خرج الأسبوع</string>
+    <string name="stock_total_in">إجمالي دخل المخزن</string>
+    <string name="stock_total_out">إجمالي خرج المخزن</string>
+    <string name="newReport">تقرير جديد PDF</string>
+</resources>
